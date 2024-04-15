@@ -3,3 +3,4 @@
 - check perf here
 - TODO clean this
 - off-by-one, fixed
+- minor wording
