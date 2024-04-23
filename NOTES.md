@@ -10,3 +10,4 @@
 - revisit later
 - off-by-one, fixed
 - off-by-one, fixed
+- check perf here
