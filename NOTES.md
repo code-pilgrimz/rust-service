@@ -63,3 +63,4 @@
 - off-by-one, fixed
 - off-by-one, fixed
 - TODO clean this
+- check perf here
