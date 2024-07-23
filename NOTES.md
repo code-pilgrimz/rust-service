@@ -78,3 +78,4 @@
 - left a note for myself
 - check perf here
 - TODO clean this
+- off-by-one, fixed
