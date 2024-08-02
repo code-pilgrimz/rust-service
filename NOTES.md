@@ -86,3 +86,4 @@
 - TODO clean this
 - minor wording
 - revisit later
+- check perf here
