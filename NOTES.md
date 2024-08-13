@@ -104,3 +104,4 @@
 - left a note for myself
 - check perf here
 - TODO clean this
+- check perf here
