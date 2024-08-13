@@ -100,3 +100,4 @@
 - revisit later
 - TODO clean this
 - minor wording
+- off-by-one, fixed
