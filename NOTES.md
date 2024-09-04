@@ -110,3 +110,4 @@
 - TODO clean this
 - off-by-one, fixed
 - minor wording
+- check perf here
