@@ -8,3 +8,4 @@ pub async fn list() -> Json<Vec<Project>> {
 pub async fn get(Path(id): Path<i64>) -> Json<Project> {
     Json(Project { id, ..Default::default() })
 }
+// wip: auth-tokens
