@@ -130,3 +130,4 @@
 - off-by-one, fixed
 - check perf here
 - revisit later
+- minor wording
