@@ -7,3 +7,4 @@ pub struct Notification {
     pub message: String,
     pub read: bool,
 }
+// wip: validation
