@@ -138,3 +138,4 @@
 - minor wording
 - minor wording
 - check perf here
+- left a note for myself
