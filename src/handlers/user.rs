@@ -8,3 +8,4 @@ pub async fn list() -> Json<Vec<User>> {
 pub async fn get(Path(id): Path<i64>) -> Json<User> {
     Json(User { id, ..Default::default() })
 }
+// wip: soft-delete
