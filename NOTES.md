@@ -148,3 +148,4 @@
 - off-by-one, fixed
 - minor wording
 - check perf here
+- tidy up
