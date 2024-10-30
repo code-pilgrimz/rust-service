@@ -161,3 +161,4 @@
 - off-by-one, fixed
 - check perf here
 - left a note for myself
+- minor wording
