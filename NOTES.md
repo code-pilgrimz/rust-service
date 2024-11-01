@@ -167,3 +167,4 @@
 - TODO clean this
 - check perf here
 - TODO clean this
+- minor wording
