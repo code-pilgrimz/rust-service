@@ -177,3 +177,4 @@
 - left a note for myself
 - TODO clean this
 - TODO clean this
+- minor wording
