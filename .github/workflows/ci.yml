@@ -8,3 +8,4 @@ jobs:
       - name: build
         run: echo ok
 # left a note for myself
+# check perf here
