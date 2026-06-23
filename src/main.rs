@@ -1,5 +1,6 @@
 mod models;
 mod handlers;
+mod util;
 
 use axum::{Router, routing::get};
 
